@@ -1,7 +1,7 @@
 # Your Texas Benefitsi
 
 ## Description
-Your Texas Benefitsi is a comprehensive web application designed to assist users in managing their benefits and expenses seamlessly. Our application provides a user-friendly interface to track, manage, and analyze expenses, ensuring users make the most out of their benefits. Built with the latest technologies, the platform offers robust features and an intuitive design for a streamlined experience.
+<a href="https://www.yourtexasbenefitsi.com">Your Texas Benefitsi</a> is a comprehensive web application designed to assist users in managing their benefits and expenses seamlessly. Our application provides a user-friendly interface to track, manage, and analyze expenses, ensuring users make the most out of their benefits. Built with the latest technologies, the platform offers robust features and an intuitive design for a streamlined experience.
 
 ## Features
 - Expense Tracking: Keep a detailed record of all your expenses.
